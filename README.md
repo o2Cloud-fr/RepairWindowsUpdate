@@ -2,6 +2,7 @@
 
 **Repair Windows Update** est une application 🖥️ Windows en C# conçue pour diagnostiquer et réparer les 🔄 composants de Windows Update. Elle permet d'identifier les ⚠️ erreurs courantes, de réinitialiser les ⚙️ services associés et d'exécuter des commandes 🏗️ de réparation pour restaurer le bon fonctionnement des mises à jour 📥 Windows.
 
+![Screen](https://repairwindowsupdate.o2cloud.fr/logo.png)
 
 - ✅ Détection de la version de Windows 🏷️
 - ✅ Vérification des 🔑 privilèges administrateur
