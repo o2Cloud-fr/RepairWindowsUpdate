@@ -1,0 +1,8 @@
+C:\Users\MyAlien\source\repos\RepairWindowsUpdate\RepairWindowsUpdate\bin\x64\Debug\RepairWindowsUpdate.exe.config
+C:\Users\MyAlien\source\repos\RepairWindowsUpdate\RepairWindowsUpdate\bin\x64\Debug\RepairWindowsUpdate.exe
+C:\Users\MyAlien\source\repos\RepairWindowsUpdate\RepairWindowsUpdate\bin\x64\Debug\RepairWindowsUpdate.pdb
+C:\Users\MyAlien\source\repos\RepairWindowsUpdate\RepairWindowsUpdate\obj\x64\Debug\RepairWindowsUpdate.csproj.AssemblyReference.cache
+C:\Users\MyAlien\source\repos\RepairWindowsUpdate\RepairWindowsUpdate\obj\x64\Debug\RepairWindowsUpdate.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyAlien\source\repos\RepairWindowsUpdate\RepairWindowsUpdate\obj\x64\Debug\RepairWindowsUpdate.csproj.CoreCompileInputs.cache
+C:\Users\MyAlien\source\repos\RepairWindowsUpdate\RepairWindowsUpdate\obj\x64\Debug\RepairWindowsUpdate.exe
+C:\Users\MyAlien\source\repos\RepairWindowsUpdate\RepairWindowsUpdate\obj\x64\Debug\RepairWindowsUpdate.pdb
