@@ -74,7 +74,7 @@ Veuillez respecter le `code of conduct` ⚖️ du projet.
 ## 🔗 Liens
 
 [![portfolio](https://img.shields.io/badge/o2Cloud-portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vcard.o2cloud.fr/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remi-simier-2b30142a1/)
 
 ## 🛠 Compétences
 
